@@ -22,9 +22,9 @@ Below are sentiment best-performing prediction performances (confusion matrices 
 
 Confusion Matrix and Classification Report of SVM
 
-![](https://github.com/Popseli/Sentiment-Analysis-of-Food-Reviews-Using-Custom-ML-and-Transfer-Learning-Methods/blob/main/Confusion%20Matrix%20-%20Custom%20ML.png)
+![]()
 
-![](https://github.com/Popseli/Sentiment-Analysis-of-Food-Reviews-Using-Custom-ML-and-Transfer-Learning-Methods/blob/main/Classification%20Report%20-%20Custom%20ML.png)
+![]()
 
 Confusion Matrix and Classification Report of BERT
 
