@@ -28,6 +28,6 @@ Confusion Matrix and Classification Report of SVM
 
 Confusion Matrix and Classification Report of BERT
 
-![]()
+![](https://github.com/Popseli/Sentiment-Analysis-of-Food-Reviews-Using-Custom-ML-and-Transfer-Learning-Methods/blob/main/Confusion%20Matrix%20-%20BERT%2040.png)
 
-![]()
+![](https://github.com/Popseli/Sentiment-Analysis-of-Food-Reviews-Using-Custom-ML-and-Transfer-Learning-Methods/blob/main/Classification%20Report%20-%20BERT%2040.png)
