@@ -17,8 +17,8 @@ We aim to implement a model that will predict a review's sentiment as positive, 
    12. Predicting sentiments of the unseen data using the pre-trained BERT model.
    13. Comparing the prediction performances of the custom ML and BERT on the unseen data.
    14. Performing false prediction analysis of the overall best-performing model.
-# Sentiment Prediction Results
-Below are sentiment best-performing prediction performances (confusion matrices and classification reports) of the best performing custom ML and BERT on the unseen data:
+# Prediction Result Summary
+Below are sentiment best-performing prediction performances (confusion matrices and classification reports) of the best-performing custom ML and BERT on the unseen data:
 
 A. Confusion Matrix and Classification Report of SVM
 
@@ -32,3 +32,9 @@ B. Confusion Matrix and Classification Report of BERT
 ![](https://github.com/Popseli/Sentiment-Analysis-of-Food-Reviews-Using-Custom-ML-and-Transfer-Learning-Methods/blob/main/Confusion%20Matrix%20-%20BERT%2040.png)
 
 ![](https://github.com/Popseli/Sentiment-Analysis-of-Food-Reviews-Using-Custom-ML-and-Transfer-Learning-Methods/blob/main/Classification%20Report%20-%20BERT%2040.png)
+
+
+It can be observed that the pre-trained BERT model has outperformed custom ML algorithms in overall accuracy, precision and recall. While the model has achieved 100% precision for the positive sentiment category, it has poorly performed in recall for the same category.
+
+
+
