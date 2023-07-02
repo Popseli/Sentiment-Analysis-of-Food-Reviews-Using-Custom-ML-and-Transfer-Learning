@@ -12,7 +12,7 @@ We aim to implement a model that will predict a review's sentiment as positive, 
    7. Merging review and summary columns to form a new data input column.
    8. Text pre-processing of the merged data.
    9. Splitting the dataset into train and validation datasets.
-   10. Modelling the supervised models with the train data and evaluating them with the validation dataset to find the best-performing model. TFIDF and Glove6B's vector representation methods were used for text vectorization for traditional ML and deep learning-based models respectively.
+   10. Modelling the supervised models with the train data and evaluating them with the validation dataset to find the best-performing model. TFIDF and Glove's vector representation methods were used for text vectorization for traditional ML and deep learning-based models respectively.
    11. Predicting sentiments of the unseen data using the best-performing custom ML model.
    12. Predicting sentiments of the unseen data using the pre-trained BERT model.
    13. Comparing the prediction performances of the custom ML and BERT on the unseen data.
